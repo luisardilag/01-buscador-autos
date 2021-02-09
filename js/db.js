@@ -172,6 +172,3 @@ const autos = [
         transmision: 'automatico' 
     }
 ];
-
-
-var nombremio = 'Luis';
